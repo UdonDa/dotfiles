@@ -5,6 +5,8 @@
 	signingkey = B7000393
 	name = kakakaya
 	email = kakakaya+git@gmail.com
+[include]
+	path = ~/.gitconfig.local
 [color]
 	ui = auto
 	status = auto
